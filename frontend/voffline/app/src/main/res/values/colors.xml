@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#cc5333</color>
+    <color name="colorAccent">#CCCCCC</color>
+    <color name="blue">#23074d</color>
+    <color name="red">#e74c3c</color>
+    <color name="green">#2ecc71</color>
+    <color name="overlay">#d6000000</color>
+    <color name="trans_title">#333333</color>
+</resources>

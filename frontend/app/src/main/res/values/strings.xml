@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VOffline</string>
+    <string name="not_connected">Not Connected to Peer</string>
+    <string name="ready_receive">Ready to Receive Payment</string>
+    <string name="ready_send">Ready to Send Payment</string>
+    <string name="accounts_title">Accounts</string>
+    <string name="send_title">Send Money</string>
+</resources>

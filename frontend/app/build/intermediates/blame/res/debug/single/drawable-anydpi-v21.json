@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_launcher_background.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_down_arrow_inside_circle.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_down_arrow_inside_circle.xml"
+    },
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_smartphone.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_smartphone.xml"
+    },
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_up_arrow_inside_a_circle.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_up_arrow_inside_a_circle.xml"
+    },
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_white_24dp.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_success.xml",
+        "source": "/Users/vmanohar/Downloads/WirelessComChat-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_success.xml"
+    }
+]

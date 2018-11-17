@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="56dp">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:padding="12dp"
+        android:layout_centerVertical="true"
+        android:onClick="goBack"
+        android:src="@drawable/ic_arrow_back_white_24dp"
+        android:id="@+id/btn_back_app_bar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Accounts"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textAllCaps="false"
+        android:id="@+id/app_bar_title" />
+
+</RelativeLayout>
