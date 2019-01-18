@@ -1,6 +1,6 @@
 # Offline Payments
 
-It is a mobile application through which the payments can be made in offline mode. The payment information is communicted from one mobile device to other device using a Wifi P2P protocol. It uses Visa Direct API for fund transfer.The API's are OCT (Original Credit Transaction) and AFT(Account Funding Transaction) API's of Visa Direct. 
+It is a mobile application through which the payments can be made in offline mode. The payment information is communicated from one mobile device to other device using a Wifi P2P protocol. It uses Visa Direct API for fund transfer.The API's are OCT (Original Credit Transaction) and AFT(Account Funding Transaction) API's of Visa Direct. 
 
 The project is divided into two parts: 1. Backend and 2. FrontEnd.
 
